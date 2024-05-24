@@ -1,3 +1,8 @@
+# PLEASE NOTE
+CURRENTLY IT'S NOT WORKING DUE TO SOME ISSUE I AM WORKING ON IT SOON IT WILL BE WORKING
+
+
+
 [![](https://jitpack.io/v/Gopal0Gupta/Login-Signup-ui-Library.svg)](https://jitpack.io/#Gopal0Gupta/Login-Signup-ui-Library)
 
 To get a Git project into your build:
